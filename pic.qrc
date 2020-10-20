@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>build-AxesCNC-Desktop_Qt_5_13_2_MSVC2017_32bit-Debug/logo-2.png</file>
+        <file>build-AxesCNC-Desktop_Qt_5_13_2_MSVC2017_32bit-Debug/timg.jpeg</file>
+    </qresource>
+</RCC>
